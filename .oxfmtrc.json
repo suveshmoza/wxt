@@ -1,0 +1,18 @@
+{
+  "singleQuote": true,
+  "printWidth": 80,
+  "jsdoc": true,
+  "sortPackageJson": false,
+  "embeddedLanguageFormatting": "off",
+  "ignorePatterns": [
+    ".output",
+    "coverage",
+    "dist",
+    ".wxt",
+    "docs/.vitepress/cache",
+    "pnpm-lock.yaml",
+    "CHANGELOG.md",
+    "packages/browser/src/gen",
+    "packages/wxt/inline"
+  ]
+}

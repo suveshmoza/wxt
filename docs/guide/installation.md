@@ -44,6 +44,7 @@ Once you've run the `dev` command, continue to [Next Steps](#next-steps)!
 ## From Scratch
 
 1. Create a new project
+
    :::code-group
 
    ```sh [Bun]
@@ -69,6 +70,7 @@ Once you've run the `dev` command, continue to [Next Steps](#next-steps)!
    :::
 
 2. Install WXT:
+
    :::code-group
 
    ```sh [Bun]
@@ -90,6 +92,7 @@ Once you've run the `dev` command, continue to [Next Steps](#next-steps)!
    :::
 
 3. Add an entrypoint, `my-project/entrypoints/background.ts`:
+
    :::code-group
 
    ```ts

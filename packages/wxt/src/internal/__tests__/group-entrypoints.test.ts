@@ -185,10 +185,7 @@ describe('groupEntrypoints', () => {
     expect(actual).toEqual([[background]]);
   });
 
-  it.todo(
-    'should group ESM compatible sandbox scripts with sandbox pages',
-    () => {
-      // Main world content scripts
-    },
-  );
+  it.todo('should group ESM compatible sandbox scripts with sandbox pages', () => {
+    // Main world content scripts
+  });
 });
