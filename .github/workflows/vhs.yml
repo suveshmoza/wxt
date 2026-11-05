@@ -24,7 +24,7 @@ jobs:
   vhs:
     name: Create VHS
     runs-on: macos-latest
-    if: ${{ github.actor != 'github-actions[bot]' && github.repository == 'wxt-dev/wxt' }}
+    if: ${{ github.actor != 'github-actions[bot]' }}
     permissions:
       contents: write
     steps:
